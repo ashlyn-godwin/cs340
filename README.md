@@ -7,6 +7,8 @@
     
     How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
     
-    The 
+    The approach to developing this assignment was very different compared to everything else I have done in CS. It was the first assignment (other than the milestone) that I had utilized a front end framework (that being Dash), and the utilization of callbacks and layout sections was something that took me time to get my head around. Initially I was unsure how the tags related to the return values of functions, but after I figured it out development commenced a lot quicker. Integrating MongoDB into the code was much simpler in comparison. In the future, the code I created for animalShelter.py could be used to quickly call database queries, and the creation of databases could be automated with a csv file importer program that implements MongoDB's csv importer.
     
     What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+
+    Computer scientists help create, implement, and support in all aspects of software development. This type of work would be incredibly common in fullstack development environments. Database calls and front end web development work are both necessary for the creation of web applications. Companies rely on these web applications to halep drive business and to complete day to day operations. 
